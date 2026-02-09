@@ -27,19 +27,5 @@ A fun and interactive web-based coffee ordering system inspired by the original 
 - `coffee.py` - Original Python CLI version
 - `humble_beginings.py` - Additional Python file
 
-## Hosting on GitHub Pages
+Site: https://journiql.github.io/coffee_order/
 
-1. Create a GitHub repository
-2. Push these files to the `main` branch
-3. Go to Settings > Pages
-4. Set the source to `main` branch
-5. Your site will be live at `https://yourusername.github.io/repository-name`
-
-## Original Features from Python Version
-
-This web version replicates the original Python CLI with:
-- Same coffee menu and prices
-- Order management (add/remove items)
-- Total price calculation
-- Humorous checkout messages
-- Order summary display
