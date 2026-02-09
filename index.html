@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coffee Ordering System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>☕ Coffee Shop</h1>
+            <p>Order your favorite (or worst) coffee</p>
+        </header>
+
+        <main>
+            <section class="menu-section">
+                <h2>Menu</h2>
+                <div class="menu-grid" id="menuGrid">
+                    <!-- Menu items will be populated by JavaScript -->
+                </div>
+            </section>
+
+            <section class="order-section">
+                <h2>Your Order</h2>
+                <div id="orderItems" class="order-items">
+                    <p class="empty-message">No items in order :0</p>
+                </div>
+                <div class="order-summary">
+                    <div class="total">
+                        <span>Total:</span>
+                        <span id="totalPrice">$0.00</span>
+                    </div>
+                    <button id="checkoutBtn" class="checkout-btn" disabled>Checkout</button>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
