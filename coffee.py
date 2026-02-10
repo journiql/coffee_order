@@ -83,7 +83,7 @@ def main():
         Coffee("Americano with salt", 2.00),
         Coffee("Mocha", 4.00),
         Coffee("this makes you poo", 100.00),
-        Coffee("crapinator 5000", 5000.00),
+        Coffee("Need the toilet 5000", 5000.00),
         Coffee("Laxatives", 2.00)
     ]
 
