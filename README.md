@@ -25,7 +25,7 @@ A fun and interactive web-based coffee ordering system inspired by the original 
 - `styles.css` - Styling and responsive design
 - `script.js` - Order logic and interactivity
 - `coffee.py` - Original Python CLI version
-- `humble_beginings.py` - Additional Python file
-
+  
 Site: https://journiql.github.io/coffee_order/
+
 
