@@ -6,7 +6,7 @@ const menu = [
     { name: "Americano with salt", price: 2.00 },
     { name: "Mocha", price: 4.00 },
     { name: "this makes you poo", price: 100.00 },
-    { name: "crapinator 5000", price: 5000.00 },
+    { name: "Need to toilet 5000", price: 5000.00 },
     { name: "Laxatives", price: 2.00 }
 ];
 
@@ -160,3 +160,4 @@ modal.addEventListener('click', (e) => {
         closeModal();
     }
 });
+
